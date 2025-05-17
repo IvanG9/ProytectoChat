@@ -1,0 +1,15 @@
+{
+  "additional_special_tokens": [
+    {
+      "content": "f\"<|{control_code}|>\"",
+      "lstrip": false,
+      "normalized": false,
+      "rstrip": false,
+      "single_word": false
+    }
+  ],
+  "bos_token": "<|startoftext|>",
+  "eos_token": "<|endoftext|>",
+  "pad_token": "<|pad|>",
+  "unk_token": "<|endoftext|>"
+}
